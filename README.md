@@ -1,4 +1,4 @@
-##LuxeLooks : <a target="_blank" href="https://luxe-looks.netlify.app/">Visit Here</a>
+## LuxeLooks : <a target="_blank" href="https://luxe-looks.netlify.app/">Visit Here</a>
 
 <a target="_blank" href="https://luxe-looks.netlify.app/">
 <img src="https://github.com/dee2314/hostingFiles/blob/master/Luxelooks.PNG?raw=true" width="100%" alt="LuxeLooks"/>
